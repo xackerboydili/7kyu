@@ -144,6 +144,7 @@
 
 '20'
 
-function isNice(arr){
-    return arr.length != 0 ? arr.every(e => arr.some(el => e == el +1 || e == el -1)) : false
-}
+// function isNice(arr){
+//     return arr.length != 0 ? arr.every(e => arr.some(el => e == el +1 || e == el -1)) : false
+// }
+
